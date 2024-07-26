@@ -68,6 +68,6 @@ The initial model with ReLU activation functions and a smaller number of hidden 
 
 ## Alternative Model Approach
 we could use a Random Forest classifier. Random Forests are robust and handle non-linear data well
-**Why Random Forest?**
+ Benefits
 - **Simplicity**: Easier to implement and interpret.
 - **Performance**: Often performs well on a variety of problems without extensive tuning.
