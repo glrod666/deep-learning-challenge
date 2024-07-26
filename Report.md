@@ -71,4 +71,3 @@ we could use a Random Forest classifier. Random Forests are robust and handle no
 **Why Random Forest?**
 - **Simplicity**: Easier to implement and interpret.
 - **Performance**: Often performs well on a variety of problems without extensive tuning.
-- **Feature Insights**: Provides insights into feature importance, which is valuable for understanding the model.
